@@ -1,9 +1,0 @@
-config {
-    type: "table",
-    schema: "df_ds"
-}
-
-SELECT
-  *
-FROM
-  ${ref("first_model")}
