@@ -1,0 +1,8 @@
+config {
+    type: "view",
+    schema: "df_ds"
+}
+
+SELECT
+  "vignesh" AS user1,
+  "logu" AS user2
