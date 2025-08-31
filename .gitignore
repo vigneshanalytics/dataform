@@ -1,3 +1,5 @@
 node_modules/
 npm/
 Create+data+sample+in+BQ.pdf
+dataformkey.json
+.df-credentials.json

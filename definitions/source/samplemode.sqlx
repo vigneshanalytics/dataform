@@ -1,0 +1,5 @@
+config {
+    type: "view"
+}
+
+select "Audi" as car, "yamaha" as bike
