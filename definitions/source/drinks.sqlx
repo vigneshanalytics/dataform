@@ -1,5 +1,6 @@
 config {
-    type: "view"
+    type: "declaration",
+    database: "prj-whp-01",
+    schema: "raw",
+    name: "drinks"
 }
-
-select "Audi" as car, "yamaha" as bike

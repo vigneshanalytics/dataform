@@ -1,0 +1,11 @@
+config {
+    type: "view"
+}
+
+select 
+    DISTINCT drink_id,
+    drink_name,
+    drink_type
+FROM 
+    ${ref("drinks")}
+
